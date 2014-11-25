@@ -42,4 +42,6 @@ This is A LOT. Your goal is not to complete 100% of this. Go over whatever you f
 - [Intro and basics](http://c2.com/cgi/wiki?TestDrivenDevelopment)
 - [Chai and JS testing](http://chaijs.com/guide/) (we used the BDD assertion style found in http://chaijs.com/guide/styles/ section "Expect")
 
-
+### If you have time check out some of these
+- [Videos](http://www.one-tab.com/page/B3T0HPDeSAC7FAuvUM0CDg)
+- [Project ideas](https://github.com/karan/Projects)
