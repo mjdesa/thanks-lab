@@ -4,8 +4,6 @@ Assignments over Thanksgiving 2014.
 ## Repetition
 This is A LOT. Your goal is not to complete 100% of this. Go over whatever you feel like going over. It will help you complete the assignment.
 
-Scroll down for the actual assignment!
-
 ### Command Line
 - [Command line crash course](http://cli.learncodethehardway.org/book/ex1.html)
 - [Command line shortcuts](https://www.shortcutfoo.com/app/dojos/command-line)
@@ -22,9 +20,6 @@ Scroll down for the actual assignment!
 
 ### Sublime Text 2
 - ["Perfect Workflow" Playlist](https://www.youtube.com/watch?v=sIo7ldkyqb8&index=32&list=PLuwqxbvf3olpLsnFvo06gbrkcEB5o7K0g)
-
-### Oh My ZSH
-- [Z Shell setup and basics](http://railscasts.com/episodes/308-oh-my-zsh)
 
 ### HTML
 - [Beginner, intermediate, advanced tutorials](http://htmldog.com/guides/html/)
@@ -47,5 +42,4 @@ Scroll down for the actual assignment!
 - [Intro and basics](http://c2.com/cgi/wiki?TestDrivenDevelopment)
 - [Chai and JS testing](http://chaijs.com/guide/) (we used the BDD assertion style found in http://chaijs.com/guide/styles/ section "Expect")
 
-## Assignment
 
